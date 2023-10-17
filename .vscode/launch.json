@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RombasPattern",
+            "request": "launch",
+            "mainClass": "RombasPattern",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "Day",
+            "request": "launch",
+            "mainClass": "Day",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "CheckTemp",
+            "request": "launch",
+            "mainClass": "CheckTemp",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "VowelOrConstant",
+            "request": "launch",
+            "mainClass": "VowelOrConstant",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "VariableSwap",
+            "request": "launch",
+            "mainClass": "VariableSwap",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "GreatestAmong",
+            "request": "launch",
+            "mainClass": "GreatestAmong",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "cmd",
+            "request": "launch",
+            "mainClass": "cmd",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "StudentPass",
+            "request": "launch",
+            "mainClass": "StudentPass",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "Swaptwonumber",
+            "request": "launch",
+            "mainClass": "Swaptwonumber",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "Inputfromuser",
+            "request": "launch",
+            "mainClass": "Inputfromuser",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Firstclass",
+            "request": "launch",
+            "mainClass": "Firstclass",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "Helloworld",
+            "request": "launch",
+            "mainClass": "Helloworld",
+            "projectName": "java program_b74c208"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "java program_b74c208"
+        }
+    ]
+}
